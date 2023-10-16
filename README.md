@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @00urbina00
-- 👀 I'm new here
-- 🌱 I’m currently in the carrer of computing engineer
-- 💞️ I’m looking to collaborate on some Ai projects to learn ;)
+- I’m currently in the carrer of computing engineer
+- I’m looking to collaborate on some Ai projects to learn ;)
 - 📫 How to reach me: edurbina2002@hotmail.com
 
 <!---
