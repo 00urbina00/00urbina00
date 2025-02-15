@@ -52,7 +52,7 @@ I am always **eager to learn new technologies** and **work in multidisciplinary 
 🔹 Built a **full-stack e-commerce system** with **product and order management, users management and shopping cart**.  
 **Tech Stack:** PHP, MySQL, JavaScript  
 
-### 📌 **Lexical, Syntactic, and Semantic Analyzer (using Automata)**  
+### 📌 **Lexical, Syntactic, and Semantic Analyzer**  
 🔹 Implemented an **analyzer** capable of reading an input character stream and transforming it into a sequence of **lexical components using Deterministic Finite Automata (DFA)**.  
 🔹 Developed an **IDE-like visual interface**, analyzing syntax and evaluating expressions to verify the validity of the code.  
 **Tech Stack:** C++, QT  
