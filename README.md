@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there! 👋 I'm Eduardo Daniel Urbina Campos</h1>
 
 <p align="center">
-  🎓 Computer Engineering graduate | 🤖 Enthusiastic about AI and software development | 💡 Passionate about technology and innovation
+  🎓 Computer Engineering graduate | 🤖 Enthusiastic about AI | 💡 Passionate about technology and innovation
 </p>
 
 ---
