@@ -75,8 +75,14 @@ For more projects, check out my **[GitHub repositories](https://github.com/00urb
 
 ---
 
-### 🔥 Fun Fact  
-I love **solving real-world problems with AI and building innovative tech solutions!** 💡  
+### 🎮 Fun Facts  
+
+- I'm a passionate **PC gamer** and love building and assembling PCs. 🖥️🔧
+- I have experience **repairing and troubleshooting computers**, from hardware fixes to software optimization. 💻🛠️  
+- I could talk for hours about **hardware, and technology**. 🎮⚡  
+- I enjoy **multimedia editing**, from video to image manipulation. 🎬🖌️  
+- **AI fascinates me!** From generative AI to building AI-driven solutions. 🤖🚀  
+- Music is my escape—always up for discovering new sounds! 🎵🎧  
 
 ---
 
