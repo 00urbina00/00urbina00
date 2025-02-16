@@ -2,14 +2,6 @@
 00urbina00/00urbina00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-###
-
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/87339054?s=400&u=130be973db04e3aaeae83c2d0db48382d00be6a0&v=4"  />
-</div>
-
-###
-
 <h1 align="center">Hi there! 👋 I'm Eduardo Daniel Urbina Campos</h1>
 
 <p align="center">
@@ -124,8 +116,6 @@ For more projects, check out my **[GitHub repositories](https://github.com/00urb
 ---
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/00urbina00/00urbina00/output/snake.svg" alt="Snake animation" />
 
