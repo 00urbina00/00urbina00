@@ -2,12 +2,45 @@
 00urbina00/00urbina00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+###
+
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/87339054?s=400&u=130be973db04e3aaeae83c2d0db48382d00be6a0&v=4"  />
+</div>
+
+###
 
 <h1 align="center">Hi there! 👋 I'm Eduardo Daniel Urbina Campos</h1>
 
 <p align="center">
   🎓 Computer Engineering graduate | 🤖 Enthusiastic about AI | 💡 Passionate about technology and innovation
 </p>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="35" alt="qt logo"  />
+</div>
 
 ---
 
@@ -87,3 +120,13 @@ For more projects, check out my **[GitHub repositories](https://github.com/00urb
 ---
 
 🚀 Always open to new opportunities and collaborations! Feel free to reach out.  
+
+---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/00urbina00/00urbina00/output/snake.svg" alt="Snake animation" />
+
+###
