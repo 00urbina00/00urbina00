@@ -1,122 +1,44 @@
-<!---
-00urbina00/00urbina00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi there! 👋 I'm Eduardo Daniel Urbina Campos</h1>
+# Eduardo Urbina
 
-<p align="center">
-  🎓 Computer Engineering graduate | 🤖 Enthusiastic about AI | 💡 Passionate about technology and innovation
-</p>
+### AWS Full Stack Developer - Computer Engineer - Systems Builder
 
-<br clear="both">
+I build full-stack products and the delivery systems behind them. My work sits at the intersection of product engineering, cloud, security and operational reliability.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="35" alt="qt logo"  />
-</div>
+I enjoy taking a feature from interface and data model to automated delivery and a service that can be operated in production.
 
----
+## What I work with
 
-## 📝 About Me  
-I am a Computer Engineering graduate from the **University of Guadalajara**, passionate about **artificial intelligence, software development, and problem-solving**. I have some experience in **Software development**, **computer vision, machine learning**, and **full-stack web development**.  
+- **Product engineering:** React, TypeScript, Node.js, Express and accessible interfaces
+- **Data and backend:** PostgreSQL, Prisma, REST APIs and secure session-based authentication
+- **Cloud and delivery:** AWS, Docker, CI/CD and repeatable release workflows
+- **Infrastructure:** Linux, Docker Compose, reverse proxies, secure tunnels and lightweight observability
+- **Applied AI:** computer vision, image processing and deep-learning experiments
 
-💡 My experience includes:  
-- 🖥️ Developing AI-based applications with **TensorFlow, PyTorch, and OpenCV**  
-- 🌐 Building full-stack web platforms with **Laravel, PHP, JavaScript, and MySQL**  
-- 🤖 Creating interactive systems and real-time applications with **QT, Python, and C++**  
-- 🏆 Solving complex problems in **operating systems, compilers, and concurrent programming**  
+## Featured work
 
-I am always **eager to learn new technologies** and **work in multidisciplinary teams**.  
+### [Cashflow Finance Manager](https://cashflow.00urbina00.dev)
 
----
+A production-minded personal finance platform for accounts, transactions, transfers, investments and analytics. It includes a bilingual React interface, a PostgreSQL-backed API, secure sessions, CSRF protection, automated delivery and Telegram-assisted expense capture.
 
-## 🔧 Tech Stack  
-**Languages:** Python, C / C++, Java, C#  
-**Web Development:** Laravel, PHP, JavaScript, HTML, CSS, MySQL, PostgreSQL  
-**Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Django, QT, TKinter, PyQt, Godot  
-**Machine Learning:** Classification, object detection, facial recognition  
-**Operating Systems:** Windows, Linux, Mac (process scheduling, memory management, concurrent programming)  
-**Version Control:** Git & GitHub  
-**Other Skills:** Automata Theory, Compilers, Data Structures & Algorithms  
+**React - TypeScript - Express - PostgreSQL - Prisma - Docker**
 
----
+### Self-hosted Homelab
 
-## 🚀 Projects  
-### 📌 **Sargassum Level Estimator**  
-🔹 Improved deep learning model accuracy from **60% to 73%** for detecting sargassum on Mexican beaches.  
-**Tech Stack:** Python, TensorFlow, OpenCV  
+A compact Debian environment for running real applications through a containerized platform. It brings together Docker Compose, Caddy, Cloudflare routing, staging and production services, and lightweight monitoring designed for constrained hardware.
 
-### 📌 **Interactive Computer Vision Game**  
-🔹 Developed an **interactive game** with real-time object tracking and **image transposition** to enhance user experience at a public event.  
-**Tech Stack:** Python, OpenCV, Pygame  
+**Debian - Docker Compose - Caddy - Cloudflare - Observability**
 
-### 📌 **Facial Recognition Access System**  
-🔹 Implemented a **feature extraction-based** recognition system that eliminates the need for retraining when adding new users.  
-**Tech Stack:** Python, OpenCV, mediapipe
+### Applied AI and Computer Vision
 
-### 📌 **E-Commerce Platform**  
-🔹 Built a **full-stack e-commerce system** with **product and order management, users management and shopping cart**.  
-**Tech Stack:** PHP, MySQL, JavaScript  
+Earlier projects explored image classification, object detection and real-time computer vision, including a sargassum-level estimator and interactive vision systems.
 
-### 📌 **Lexical, Syntactic, and Semantic Analyzer**  
-🔹 Implemented an **analyzer** capable of reading an input character stream and transforming it into a sequence of **lexical components using Deterministic Finite Automata (DFA)**.  
-🔹 Developed an **IDE-like visual interface**, analyzing syntax and evaluating expressions to verify the validity of the code.  
-**Tech Stack:** C++, QT  
-**Key Skills:** Formal Language Theory, Compilers, Automata, Lexical and Syntactic Analysis 
+## Portfolio
 
-### 📌 **Process Simulators with Scheduling Algorithms**  
-🔹 Developed **batch processing simulators** incorporating scheduling algorithms such as **FCFS, RR, and SJF**.  
-🔹 Implemented a **5-state diagram with secondary memory usage** and **real-time memory management** for limited processes.  
-**Tech Stack:** Python, QT  
+See the full selection of projects and the engineering approach behind them at [00urbina00.dev](https://00urbina00.dev).
 
+## Contact
 
-For more projects, check out my **[GitHub repositories](https://github.com/00urbina00)!** 🚀  
+- [LinkedIn](https://www.linkedin.com/in/daniel-00urbina00/)
+- [GitHub](https://github.com/00urbina00)
 
----
-
-## 📫 Contact Me  
-📍 **Location:** Guadalajara, Jalisco, México  
-📧 **Email:** [edurbina2002@hotmail.com](mailto:edurbina2002@hotmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/daniel-00urbina00](https://www.linkedin.com/in/-daniel-urbina)  
-
----
-
-### 🎮 Fun Facts  
-
-- I'm a passionate **PC gamer** and love building and assembling PCs. 🖥️🔧
-- I have experience **repairing and troubleshooting computers**, from hardware fixes to software optimization. 💻🛠️  
-- I could talk for hours about **hardware, and technology**. 🎮⚡  
-- I enjoy **multimedia editing**, from video to image manipulation. 🎬🖌️  
-- **AI fascinates me!** From generative AI to building AI-driven solutions. 🤖🚀  
-- Music is my escape—always up for discovering new sounds! 🎵🎧  
-
----
-
-🚀 Always open to new opportunities and collaborations! Feel free to reach out.  
-
----
-
-###
-
-<img src="https://raw.githubusercontent.com/00urbina00/00urbina00/output/snake.svg" alt="Snake animation" />
-
-###
+I am interested in thoughtful software, reliable systems and projects that solve real problems.
