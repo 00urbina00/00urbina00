@@ -1,6 +1,6 @@
 # Daniel Urbina
 
-### AWS Full Stack Developer - Computer Engineer - Systems Builder
+### AWS Full Stack Developer - Computer Engineer
 
 I build full-stack products and the delivery systems behind them. My work sits at the intersection of product engineering, cloud, security and operational reliability.
 
